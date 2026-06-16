@@ -38,7 +38,7 @@ fields_of_interest:
   
 currently_building:
   - "🧠 MindMate — AI-powered mental health support platform"
-  - "📈 Stock Trading App — Real-time market insights"
+  - "🍔 Foodify — Full-stack role-based food delivery system"
   - "🛡️ ScamShield — Intelligent scam detection system"
 
 fun_fact: "I debug code faster than I decide what to eat for dinner 🍕"
@@ -67,6 +67,7 @@ fun_fact: "I debug code faster than I decide what to eat for dinner 🍕"
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
 </p>
 
 ### 🔧 Backend & Database
@@ -75,6 +76,7 @@ fun_fact: "I debug code faster than I decide what to eat for dinner 🍕"
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.dot.io&logoColor=white" alt="Socket.io"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -86,6 +88,7 @@ fun_fact: "I debug code faster than I decide what to eat for dinner 🍕"
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/>
 </p>
 
 </div>
@@ -105,7 +108,8 @@ fun_fact: "I debug code faster than I decide what to eat for dinner 🍕"
 | 📈 | [**Stock Trading**](https://github.com/pankaj332004/stockTrading) | Real-time stock market trading & insights platform | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | 🏠 | [**Airbnb Clone**](https://github.com/pankaj332004/Airbnb-clone) | Full-stack Airbnb replica with listings, auth & reviews | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white) |
 | ⚙️ | [**Backend Mastery**](https://github.com/pankaj332004/backend) | Production-grade backend with auth, file uploads & aggregation | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| 🍕 | [**Foodify**](https://github.com/pankaj332004/foodify) | Full-stack food ordering platform with Stripe payment integration | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🍕 | [**Foodify**](https://github.com/pankaj332004/foodify) | Full-stack food delivery platform with 4 roles, Razorpay, and WebSocket tracking | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white) |
+| ☕ | [**Java Programs**](https://github.com/pankaj332004/Java-Programs) | Comprehensive exercises, assignments, and OOP concept implementations | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-blue?style=flat-square) |
 
 </div>
 
